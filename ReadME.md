@@ -1,21 +1,13 @@
 # Merge Me
 
- Merge me is an educational app. 
+ Merge me is an educational app. This includes directions contributed by Maxine Meurer on how to make your first Github contribution and a basic To Do Task List! Complete the tasks or make your own To Do List!
 
 ## Installation
 
-Fork this repo and clone it.
-
-And then from the project directory execute:
-
-	$ bundle
+Fork this repo and clone it. 
 
 
 ## Usage
-
-In order to run this application, for the backend api execute:
-
-	$ rails s
 
 In order to run this application, for the frontend execute:
 
@@ -25,9 +17,6 @@ or type in:
 
     $ open index.html
 
-## Sample Demo Video
-
-To look at a sample demo video click [here]()
 
 ## Contributing
 
