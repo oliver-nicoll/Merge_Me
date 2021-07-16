@@ -10,6 +10,7 @@ And then from the project directory execute:
 
 	$ bundle
 
+
 ## Usage
 
 In order to run this application, for the backend api execute:
